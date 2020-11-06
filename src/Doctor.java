@@ -24,7 +24,7 @@ import net.proteanit.sql.DbUtils;
  */
 /**
  *
- * @author Raiyan13
+ * @author Raiyan
  */
 public class Doctor extends javax.swing.JFrame {
 
