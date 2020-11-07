@@ -61,7 +61,7 @@ CREATE TABLE tbl_employee(
 CREATE TABLE tbl_appointment(
 
     appointmentId int AUTO_INCREMENT PRIMARY KEY,
-    ap_startTime varchar(20)
+    ap_startTime varchar(20),
     ap_date varchar(50) not null,
     chamberId int,
     patientId int,
